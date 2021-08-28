@@ -12,12 +12,16 @@ The objective of this project is to apply learnt machine learning techniques to 
 
 Using the following machine learning techniques, we will aim to build classifiers to predict the classes of the data. 
 
-**1) Linear regression,**
+#1) Linear regression,
 
-**2) Random Forest, **
+#2) Random Forest, 
 
-** 3) Neural network and **
+ #3) Neural network and 
 
-** 4) K-means algorithm.**
+# 4) K-means algorithm.
+##Install
+pip install Breast_causal
+##what it does?
+
 
 
