@@ -62,8 +62,6 @@ https://github.com/danilobenozzo/supervised_causality_detection/blob/master/feat
 
 https://causalnex.readthedocs.io/en/latest/04_user_guide/04_user_guide.html#causality
 
-we can use different algorism like logestic, decession tree or any othet to extract important features, why we need casuality?
-
 https://causalnex.readthedocs.io/en/latest/03_tutorial/03_tutorial.html
 
 https://www.datarobot.com/wiki/machine-learning-model-deployment/
