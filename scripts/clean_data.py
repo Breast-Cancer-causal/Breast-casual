@@ -9,7 +9,7 @@ import numpy as np
 
 class clean_data():
   def __init__(self, df):
-    self.df = df.copy()
+    self.df = df
 
 
   def with_null_column(self):
@@ -116,6 +116,11 @@ class clean_data():
 
   def save_clean(self):
     try:
-      self.df.to_csv('../data/data.csv', index=False)
+      self.df.to_csv('../data/clean_data.csv', index=False)
     except:
       print('Log: Error while Saving File')
+      
+#test
+cd=clean_data
+cd("../data/data.csv")
+#clean_data_1.head()
