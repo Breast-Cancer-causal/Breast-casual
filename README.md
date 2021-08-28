@@ -23,7 +23,7 @@ Using the following machine learning techniques, we will aim to build classifier
 
 ## 2) Introduction
 
-`Breast-casual` is a python module for describing and manipulating [Causal Graphical Models](https://en.wikipedia.org/wiki/Causal_graph) and [Structural Causal Models](https://en.wikipedia.org/wiki/Structural_equation_modeling). Based on the graph it will help user to make casual inference , manuplate different machine learning models and do comparisn of models.
+`Breast_casual` is a python package for describing and manipulating [Causal Graphical Models](https://en.wikipedia.org/wiki/Causal_graph) and [Structural Causal Models](https://en.wikipedia.org/wiki/Structural_equation_modeling). Based on the graph it will help user to make casual inference , manuplate different machine learning models and do comparisn of models.
 
 It is currently in a very early stage of development. All feedback is welcome.
 
